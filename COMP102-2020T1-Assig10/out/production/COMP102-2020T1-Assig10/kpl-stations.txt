@@ -1,0 +1,14 @@
+Wellington 1
+TakapuRoad 4
+Redwood 4
+Tawa 4
+Linden 4
+Kenepuru 5
+Porirua 5
+Paremata 5
+Mana 6
+Plimmerton 6
+PukeruaBay 7
+Paekakariki 8
+Paraparaumu 9
+Waikanae 10

@@ -1,0 +1,6 @@
+This course introduces programming fundamentals, using a high level 
+programming language called Java using an object oriented approach to program 
+design. Students develop their programming skills by constructing 
+computer programs for a variety of problems. The course provides a 
+foundation for all later courses in computer science, and develops 
+programming skills useful for students making applications in many other disciplines.
